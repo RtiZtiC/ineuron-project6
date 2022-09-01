@@ -1,0 +1,192 @@
+body{
+    padding: 1% 4%;
+}
+#navbarMonstera{
+    display: grid;
+    grid-template-columns: 15% 60% 25%;
+    font-family: "Abel";
+    padding: 2%;
+}
+
+#navFirst{
+    position: relative;
+    bottom:2px;
+}
+
+#midWhole{
+    position: relative;
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+
+h4{
+    display: inline;
+}
+
+h1{
+    margin: 0%;
+}
+
+#navMid {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    font-size: 1.3rem;
+    font-weight: 500;
+    left:100px;
+    top : 5px;
+}
+
+
+#navMid div h4:hover{
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+#navEnd{
+    display: grid;
+    grid-template-columns: 20% 20% 20%;
+    position: relative;
+    left:70%;
+    top:3px;
+}
+
+#monstera{
+    font-family: "Allerta";
+    font-size: 6.5rem;
+    font-weight: 900;
+    text-align: left;
+    position: relative;
+    top:20px;
+}
+
+
+#midWholePart11{
+    padding-top: 13%;
+}
+
+#midWholePart121 div{
+    width:700px;
+    height: 40px;
+    display: inline;
+    font-family: "Abel";
+    font-size: 1.6rem;
+    background-color: #466d50;
+    border-radius: 50px;
+    position: relative;
+    color:white;
+    left:40px;
+    bottom:20px;
+
+    
+}
+
+#midWholePart121 div h1{
+    position: relative;
+    top:40px;
+    left:40px;
+    font-size: 2.8rem;
+    font-weight: 300;
+    
+}
+
+#midWholePart122{
+    position: absolute;
+    padding:2% 0%;
+    padding-left: 22%;
+    padding-right: 3%;
+    padding-bottom: 0.6%;
+    bottom:100px;
+    z-index: -1;
+    left :15px;
+}
+
+ul{
+    grid-template-rows: 30% 30%;
+    text-align: left;
+    margin: 0%;
+    padding-bottom: 5%;
+}
+li{
+    font-family: "Allerta";
+    list-style-position: outside;
+    padding: 0% 30%;
+    font-size: 1.3rem;
+    font-weight: 100;
+    text-align: left;
+    position: relative;
+    padding-left: 0%;
+    padding-left: 20px;;
+
+}
+
+
+li:marker{
+   content: "\23FA"; 
+   transition: 0.3s;
+   padding-right: 20px;
+
+}
+
+li:hover::marker 
+{
+    content: '\29BF';
+    
+}
+
+
+#midWholePart13{
+    display: grid;
+    grid-template-columns:25% 25% 25% ;
+    text-align: left;
+    font-family: "Allerta";
+    padding-top: 10%;
+
+}
+
+.midWholePart13Parts div{
+    margin:0% 7%;
+}
+
+
+.midWholePart13Parts h4 {
+
+    padding-top: 5%;
+    text-align: left;
+    position: relative;
+    left:30px;
+} 
+
+
+.text{
+    padding: 0 8%;
+    overflow: hidden;
+    font-size: .6rem;
+    position: relative;
+    left :10px;
+}
+
+#feeding{
+    position: relative;
+
+    float: left;
+}
+
+#light{
+    position: relative;
+    float: left;
+}
+
+#care{
+    position: relative;
+    float: left;
+}
+
+#imgMain{
+    position: relative;
+    right:240px;
+    overflow: hidden;
+}
+
+
+
