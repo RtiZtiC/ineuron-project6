@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://fastidious-raindrop-eded17.netlify.app/)_
+>### _[**Live Link**](https://rad-syrniki-691d04.netlify.app/)_
 
 <br>
 
